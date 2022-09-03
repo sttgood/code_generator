@@ -16,6 +16,7 @@ class FinalCodeGeneratorApplicationTests {
 		System.out.println("this is hot-fix2 change!");
 		System.out.println("push test");
 		System.out.println("pull test");
+		System.out.println("pull merge test");
 	}
 
 }
