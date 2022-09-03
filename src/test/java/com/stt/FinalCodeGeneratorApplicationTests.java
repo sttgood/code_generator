@@ -12,6 +12,7 @@ class FinalCodeGeneratorApplicationTests {
 		System.out.println("this is next version");
 		System.out.println("this is next next version");
 		System.out.println("this is hot-fix2 version");
+		System.out.println("this is master change!");
 	}
 
 }
