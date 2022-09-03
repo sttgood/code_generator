@@ -10,6 +10,7 @@ class FinalCodeGeneratorApplicationTests {
 	void contextLoads() {
 		System.out.println(System.getProperty("user.dir"));
 		System.out.println("this is next version");
+		System.out.println("this is next next version");
 	}
 
 }
